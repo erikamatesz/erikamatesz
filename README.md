@@ -1,11 +1,23 @@
-Hi there, I'm Erika but you can call me Erikão 😁 👋
+### Hi there, I'm Erika but you can call me Erikão 😁 👋
 
-🏳️‍⚧️ Non-binary (she / he / they)
+🏖️ Rio de Janeiro, RJ, Brazil
+
+🏳️‍⚧️ Non-binary (they / them)
 
 🏳️‍🌈 Lesbian
 
-👨🏻‍💻 Software Developer
+💍 ❤️ Married
+
+🐶 🐟 Four dogs and two fish
+
+👨🏻‍💻 Software Developer and QA
 
 📊 Data Scientist
 
-🚀 I’m looking to collaborate on diversity communities
+🚀 Looking to collaborate on diversity communities
+
+👾 I can code in Fortran, Pascal, C, C++, Objective-C, Swift, Java, Javascript, Python and Ruby
+
+🔵 Blue belt in Taekwondo
+
+✨ Interested in Education, Technology, Programming Languages, Foreign Languages, Civil Rights, and Equity
