@@ -6,7 +6,7 @@
 
 🏳️‍🌈 Lesbian
 
-💍 ❤️ Married
+💍 ❤️ Married to an incredible woman
 
 🐶 🐟 Four dogs and two fish
 
@@ -14,10 +14,12 @@
 
 📊 Data Scientist
 
+🎓 Master's degree student in Information Systems at the Federal University of the State of Rio de Janeiro
+
 🚀 Looking to collaborate on diversity communities
 
-👾 I can code in Fortran, Pascal, C, C++, Objective-C, Swift, Java, Javascript, Python and Ruby
+👾 I can code in Fortran, Pascal, C, C++, Objective-C, Swift, Java, Javascript, Python, Ruby, and any other language that I need to work with
 
 🔵 Blue belt in Taekwondo
 
-✨ Interested in Education, Technology, Programming Languages, Foreign Languages, Civil Rights, and Equity
+✨ Interested in Education, Technology, Programming Languages, Foreign Languages, Civil Rights, AI, and Equity
