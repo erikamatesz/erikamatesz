@@ -14,7 +14,7 @@
 
 📊 Data Scientist
 
-🎓 Master's degree student in Information Systems at the Federal University of the State of Rio de Janeiro
+🎓 Master's degree student in Information Systems at the Federal University of the State of Rio de Janeiro (UNIRIO)
 
 🚀 Looking to collaborate on diversity communities
 
