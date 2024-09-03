@@ -8,7 +8,7 @@
 
 💍 ❤️ Married to an incredible woman
 
-🐶 🐟 Four dogs and two fish
+🐶 Four dogs
 
 👨🏻‍💻 Software Developer
 
