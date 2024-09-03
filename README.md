@@ -10,7 +10,7 @@
 
 🐶 🐟 Four dogs and two fish
 
-👨🏻‍💻 Software Developer and QA
+👨🏻‍💻 Software Developer
 
 📊 Data Scientist
 
