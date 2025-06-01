@@ -4,7 +4,7 @@ Hi 👋 My name is Erika Matesz Bueno
 Data Scientist & Software Developer
 -----------------------------------
 
-I’m a Data Scientist and Software Engineering Specialist with a focus on Quality and Testing, currently pursuing a Master’s in Information Systems at UNIRIO. I have hands-on experience with agile teams across diverse sectors — from finance and streaming to beauty tech and smart devices. I’ve led the design and implementation of end-to-end testing frameworks for mobile apps, built AI-driven proof-of-concepts using tools like Python, LangChain, and FastAPI, and worked on international projects where English was the primary language. Beyond code, I’ve trained over 400 people, from junior developers and QAs to professionals transitioning into tech, empowering many to level up in their careers.
+I’m a Data Scientist and Software Engineering Specialist with a focus on Quality and Testing, currently pursuing a Master’s in Information Systems with a focus on Artificial Intelligence at UNIRIO. I have hands-on experience with agile teams across diverse sectors — from finance and streaming to beauty tech and smart devices. I’ve led the design and implementation of end-to-end testing frameworks for mobile apps, built AI-driven proof-of-concepts using tools like Python, LangChain, and FastAPI, and worked on international projects where English was the primary language. Beyond code, I’ve trained over 400 people, from junior developers and QAs to professionals transitioning into tech, empowering many to level up in their careers.
 
 *   🌍  I'm based in Rio de Janeiro, Brazil
 *   ✉️  You can contact me at [mateszbueno@protonmail.com](mailto:mateszbueno@protonmail.com)
