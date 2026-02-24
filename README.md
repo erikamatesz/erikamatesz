@@ -8,7 +8,7 @@ I’m a Data Scientist and Software Engineering Specialist with a focus on Quali
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [ecmateszbueno@gmail.com](mailto:ecmateszbueno@gmail.com)
-* 🚀  I'm currently working on [ClimateLoop](http://github.com/climateloop)
+* 🚀  I'm currently working on [Climate Loop](http://github.com/climateloop)
 * 🧠  I'm currently learning MLOps and LLMOps
 * 👥  I'm looking to collaborate on software and data projects that focus on supporting underrepresented groups, such as LGBTQIAP+ individuals and women, as well as initiatives with a humanitarian or socially impactful purpose.
 
